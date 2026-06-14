@@ -48,6 +48,7 @@ Follow these steps to set up the OODA mobile application locally:
 
 *For more advanced configuration, including running the local Python AI scraper node, refer to the `HOW_TO_USE.md` document.*
 
+
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image.png)

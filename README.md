@@ -47,3 +47,11 @@ Follow these steps to set up the OODA mobile application locally:
    - Alternatively, scan the QR code using the **Expo Go** app on your physical mobile device.
 
 *For more advanced configuration, including running the local Python AI scraper node, refer to the `HOW_TO_USE.md` document.*
+
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image.png)
+![alt text](image-4.png)
+![alt text](image-3.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
